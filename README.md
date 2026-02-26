@@ -32,19 +32,13 @@
 
 [نصب و استفاده](#نصب-و-استفاده)
 
-[تنظیمات](#options)
-
-[تاریخچه تغییرات نسخه](https://github.com/majidh1/JalaliDatePicker/blob/main/ChangeLog.md)
+[تنظیمات](#options))
  
 [نمونه پیاده سازی](https://github.com/majidh1/JalaliDatePicker/blob/main/Sample.md)
  
 ## نصب و استفاده
  1- با استفاده از npm یا فولدر dist در همین مخزن آخرین نسخه را دریافت کنید
 
-```shell
-npm i @majidh1/jalalidatepicker
-```
-OR
 ```html
 https://github.com/majidh1/JalaliDatePicker => /dist/
 ```
@@ -55,15 +49,7 @@ https://github.com/majidh1/JalaliDatePicker => /dist/
 ```html
 <link type="text/css" rel="stylesheet" href="jalalidatepicker.min.css" />
 <script type="text/javascript" src="jalalidatepicker.min.js"></script>
-```
-یا استفاده از CDN
-
-```html
-<link rel="stylesheet" href="https://unpkg.com/@majidh1/jalalidatepicker/dist/jalalidatepicker.min.css">
-<script type="text/javascript" src="https://unpkg.com/@majidh1/jalalidatepicker/dist/jalalidatepicker.min.js"></script>
-```
-
- </div>
+``` 
  3- به inputهای مورد نیاز Attribute زیر را  اضافه کنید.
  <br/>
 &nbsp&nbsp &nbsp <b>data-jdp</b><br/>
