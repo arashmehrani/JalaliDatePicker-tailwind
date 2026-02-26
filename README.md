@@ -23,9 +23,6 @@
  
  <br/>
  
- <br/>
- 
- ## The English version of the documentation is available [Here](/README-en.md).
 
  <br />
  <br />
