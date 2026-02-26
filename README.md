@@ -1,6 +1,6 @@
 <div  align="center">
 
-# JalaliDatePicker
+# JalaliDatePicker Tailwind (DarkMod)
 [![npm version](https://badge.fury.io/js/%40majidh1%2Fjalalidatepicker.svg?v=new)](https://www.npmjs.com/package/@majidh1/jalalidatepicker)
 <img src="res/filesizegzip.svg" width="102px"/>
 <img src="res/filesize.svg" width="87px"/>
