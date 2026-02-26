@@ -32,7 +32,7 @@
 
 [نصب و استفاده](#نصب-و-استفاده)
 
-[تنظیمات](#options))
+[تنظیمات](#options)
  
 [نمونه پیاده سازی](https://github.com/majidh1/JalaliDatePicker/blob/main/Sample.md)
  
